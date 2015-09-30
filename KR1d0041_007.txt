@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮析疑
-#+DATE: 2015-09-23 09:37:50
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:09:22.936680
+#+PROPERTY: ID KR1d0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1d0041_WYG_007-1a>¶
 欽定四庫全書¶
 　儀禮析疑卷七¶
@@ -704,4 +706,3 @@
 　¶
 　¶
 　儀禮析疑巻七¶
-

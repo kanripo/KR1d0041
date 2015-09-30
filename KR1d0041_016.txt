@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮析疑
-#+DATE: 2015-09-23 09:37:50
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:09:23.106860
+#+PROPERTY: ID KR1d0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1d0041_WYG_016-1a>¶
 欽定四庫全書¶
 　儀禮析疑卷十六¶
@@ -434,4 +436,3 @@
 　之微異者相間故不厭其複制禮之由紀事之法無¶
 　微不達是謂聖人之文¶
 　儀禮析疑卷十六¶
-
